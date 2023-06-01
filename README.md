@@ -1,6 +1,3 @@
-Certainly! Here's the updated Markdown code with the additional information:
-
-```markdown
 # Wise Chat - Your Ultimate AI-Powered Assistant
 
 ## Ask Anything, Write Effortlessly, and Get Creative!
@@ -41,6 +38,3 @@ Introducing Wise Chat, the most advanced AI-powered assistant that can cater to 
 - **Phone Number:** +84766261102
 
 Experience the future of AI with Wise Chat – your intelligent companion for all your needs. Download now and embark on a journey of knowledge, creativity, and personal growth.
-```
-
-Feel free to copy and paste this updated code into your Markdown editor, which now includes the Privacy Policy, Terms and Conditions of Service, and contact information.
